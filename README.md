@@ -1,1 +1,1 @@
-# The-Snake-Game
+Run all 4 files in Pychram to create a Snake Game as in old Nokia Phones. USe the keyboard arrow keys to change direction of your snake so that it can eat maximum amount of food possible to grow in size. 
